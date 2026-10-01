@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Funding & Scholarships"
+title: "Funding"
 permalink: /funding/
 author_profile: true
 ---
