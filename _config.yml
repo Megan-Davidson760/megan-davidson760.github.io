@@ -26,11 +26,11 @@ author:
   bio              : "PhD researcher in Criminology at the University of Manchester, studying the spatial and architectural dimensions of incarceration."
   location         : "Manchester, UK"
   employer         : "University of Manchester"
-  uri              : # URL
+  uri              : "https://research.manchester.ac.uk/en/persons/megan-davidson/"
   email            : "megan.davidson@manchester.ac.uk" 
 
   # Academic websites
-  academia         :  "https://research.manchester.ac.uk/en/persons/megan-davidson/"
+  academia         :  
   orcid            : "https://orcid.org/0009-0005-0237-1272"
 
   # Social media
