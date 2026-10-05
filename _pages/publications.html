@@ -28,7 +28,6 @@ author_profile: true
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    <p>{{ post.title }}</p>
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
