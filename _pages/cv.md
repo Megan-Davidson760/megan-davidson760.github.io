@@ -21,8 +21,6 @@ Education
 
 Experience
 ======
-* Teaching Assistant - Department of Criminology, University of Manchester (2026-present)
-  * Department of Criminology TA Rep for the 2026/27 academic year
 * Data Management Specialist - CBI Business Solutions, formerly Catherine Brownlee Inc. (2019-present)
 * Data Management Specialist - Andersen Canada (2024-2025)
 * Interim Executive Director and Executive Advisor - Centre for Social Impact Technology (2023-2024)
