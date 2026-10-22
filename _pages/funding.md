@@ -18,7 +18,7 @@ A full record of funding, scholarships, and awards received throughout my academ
 | University of Manchester Presidential Doctoral Scholar Conference Fund — ICPA 2026 Annual Conference, Belfast | 2026 | £750 |
 | University of Manchester Presidential Doctoral Scholar Conference Fund — Prison Design and Technology Conference, Rabat | 2026 | £750 |
 | Carceral Geography Working Group (CGWG) Conference Bursary — 6th International Conference for Carceral Geography, Trier | 2026 | €350 |
-| Department of Criminology Conference Scholarship — 2026 PhD Criminology Conference | 2026 | £95 |
+| University of Cambridge, Department of Criminology Conference Scholarship — 2026 PhD Criminology Conference | 2026 | £95 |
 
 ## University of Liverpool — MRes
 
